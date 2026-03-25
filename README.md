@@ -5,7 +5,7 @@
 ![Whisper](https://img.shields.io/badge/Whisper-Speech_to_Text-yellow.svg)
 
 ## 📖 Sobre o Projeto
-Este projeto transforma o seu navegador em uma verdadeira sessão de RPG de mesa. Utilizando tecnologias de ponta em Inteligência Artificial, construímos um "Mestre de Jogo" automatizado com o qual você pode interagir 100% por voz. 
+Este projeto transforma o seu navegador em uma verdadeira sessão de RPG de mesa. Utilizando tecnologias de ponta em Inteligência Artificial, um "Mestre de Jogo" automatizado com o qual você pode interagir 100% por voz. 
 
 Diferente de simples chatbots de pergunta e resposta, este sistema possui **gerenciamento de contexto (memória)**, permitindo que a aventura tenha continuidade, consequências lógicas e uma narrativa imersiva estilo fantasia sombria e punitiva, onde cada escolha sua conta.
 
